@@ -1,0 +1,212 @@
+[
+  {
+    "trade_id": "TRD-00077",
+    "break_type": "missing",
+    "corrupted_side": "custodian",
+    "true_value": "TRD-00077",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00117",
+    "break_type": "timing",
+    "corrupted_side": "ledger",
+    "true_value": "2026-07-08",
+    "corrupted_value": "2026-07-09"
+  },
+  {
+    "trade_id": "TRD-00164",
+    "break_type": "missing",
+    "corrupted_side": "custodian",
+    "true_value": "TRD-00164",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00007",
+    "break_type": "price",
+    "corrupted_side": "custodian",
+    "true_value": 328.33,
+    "corrupted_value": 336.06
+  },
+  {
+    "trade_id": "TRD-00015",
+    "break_type": "missing",
+    "corrupted_side": "custodian",
+    "true_value": "TRD-00015",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00122",
+    "break_type": "missing",
+    "corrupted_side": "ledger",
+    "true_value": "TRD-00122",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00102",
+    "break_type": "quantity",
+    "corrupted_side": "custodian",
+    "true_value": 3700,
+    "corrupted_value": 3800
+  },
+  {
+    "trade_id": "TRD-00109",
+    "break_type": "quantity",
+    "corrupted_side": "custodian",
+    "true_value": 4700,
+    "corrupted_value": 4600
+  },
+  {
+    "trade_id": "TRD-00175",
+    "break_type": "missing",
+    "corrupted_side": "ledger",
+    "true_value": "TRD-00175",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00027",
+    "break_type": "timing",
+    "corrupted_side": "ledger",
+    "true_value": "2026-07-13",
+    "corrupted_value": "2026-07-14"
+  },
+  {
+    "trade_id": "TRD-00125",
+    "break_type": "missing",
+    "corrupted_side": "ledger",
+    "true_value": "TRD-00125",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00182",
+    "break_type": "quantity",
+    "corrupted_side": "ledger",
+    "true_value": 4400,
+    "corrupted_value": 4600
+  },
+  {
+    "trade_id": "TRD-00113",
+    "break_type": "timing",
+    "corrupted_side": "custodian",
+    "true_value": "2026-07-07",
+    "corrupted_value": "2026-07-08"
+  },
+  {
+    "trade_id": "TRD-00018",
+    "break_type": "missing",
+    "corrupted_side": "custodian",
+    "true_value": "TRD-00018",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00020",
+    "break_type": "missing",
+    "corrupted_side": "ledger",
+    "true_value": "TRD-00020",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00082",
+    "break_type": "quantity",
+    "corrupted_side": "custodian",
+    "true_value": 1000,
+    "corrupted_value": 1100
+  },
+  {
+    "trade_id": "TRD-00155",
+    "break_type": "timing",
+    "corrupted_side": "ledger",
+    "true_value": "2026-07-13",
+    "corrupted_value": "2026-07-14"
+  },
+  {
+    "trade_id": "TRD-00037",
+    "break_type": "missing",
+    "corrupted_side": "ledger",
+    "true_value": "TRD-00037",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00016",
+    "break_type": "timing",
+    "corrupted_side": "custodian",
+    "true_value": "2026-07-15",
+    "corrupted_value": "2026-07-17"
+  },
+  {
+    "trade_id": "TRD-00032",
+    "break_type": "timing",
+    "corrupted_side": "custodian",
+    "true_value": "2026-07-08",
+    "corrupted_value": "2026-07-09"
+  },
+  {
+    "trade_id": "TRD-00070",
+    "break_type": "missing",
+    "corrupted_side": "ledger",
+    "true_value": "TRD-00070",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00159",
+    "break_type": "duplicate",
+    "corrupted_side": "custodian",
+    "true_value": "TRD-00159",
+    "corrupted_value": "TRD-00159"
+  },
+  {
+    "trade_id": "TRD-00162",
+    "break_type": "timing",
+    "corrupted_side": "ledger",
+    "true_value": "2026-07-15",
+    "corrupted_value": "2026-07-17"
+  },
+  {
+    "trade_id": "TRD-00149",
+    "break_type": "quantity",
+    "corrupted_side": "custodian",
+    "true_value": 3000,
+    "corrupted_value": 3100
+  },
+  {
+    "trade_id": "TRD-00140",
+    "break_type": "timing",
+    "corrupted_side": "ledger",
+    "true_value": "2026-07-08",
+    "corrupted_value": "2026-07-09"
+  },
+  {
+    "trade_id": "TRD-00083",
+    "break_type": "duplicate",
+    "corrupted_side": "custodian",
+    "true_value": "TRD-00083",
+    "corrupted_value": "TRD-00083"
+  },
+  {
+    "trade_id": "TRD-00097",
+    "break_type": "timing",
+    "corrupted_side": "ledger",
+    "true_value": "2026-07-10",
+    "corrupted_value": "2026-07-13"
+  },
+  {
+    "trade_id": "TRD-00152",
+    "break_type": "timing",
+    "corrupted_side": "ledger",
+    "true_value": "2026-07-03",
+    "corrupted_value": "2026-07-07"
+  },
+  {
+    "trade_id": "TRD-00135",
+    "break_type": "missing",
+    "corrupted_side": "custodian",
+    "true_value": "TRD-00135",
+    "corrupted_value": null
+  },
+  {
+    "trade_id": "TRD-00075",
+    "break_type": "quantity",
+    "corrupted_side": "ledger",
+    "true_value": 2600,
+    "corrupted_value": 2700
+  }
+]
